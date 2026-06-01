@@ -1,7 +1,5 @@
 # Braille Tutor API
 
-![Braille System Visualization]([https://via.placeholder.com/150x100?text=Braille](https://www.linkedin.com/feed/update/urn:li:activity:7338119142262157312/)) 
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
